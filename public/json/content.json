@@ -1,0 +1,1484 @@
+﻿[
+  {
+    "id": "ed8b6b3b-9d2b-4ff5-6a5e-08d75451a565",
+    "title": "Roasted Chicken Salad",
+    "subTitle": "Butter lettuce, goat cheese, roasted pecans, dried cranberries with sherry vinaigrette dressing .",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 800,
+    "maximumCalorie": 1200,
+    "preparation": 7,
+    "image": "https://cdn.opeqe.com/image/menu/s/ed8b6b3b-9d2b-4ff5-6a5e-08d75451a565.jpg",
+    "gallery": "",
+    "price": 14.5,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Salad",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Appetizer",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "f9c1f8bb-432b-495e-6a5f-08d75451a565",
+    "title": "Kale Salad",
+    "subTitle": "Massaged kale, roasted sweet potato, shredded carrot, red onion, cranberries, olive oil and lemon.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 900,
+    "preparation": 5,
+    "image": "https://cdn.opeqe.com/image/menu/s/f9c1f8bb-432b-495e-6a5f-08d75451a565.jpg",
+    "gallery": "",
+    "price": 6,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Salad",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Appetizer",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "3af24fad-c5ca-44f4-6a60-08d75451a565",
+    "title": "Greek Salad",
+    "subTitle": "Chopped cherry tomatoes, red onions, cucumbers, avocados, and black olives topped with crumbled feta cheese in an extra virgin olive oil, lemon and oregano dressing.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 1100,
+    "preparation": 9,
+    "image": "https://cdn.opeqe.com/image/menu/s/3af24fad-c5ca-44f4-6a60-08d75451a565.jpg",
+    "gallery": "",
+    "price": 12.5,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Salad",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Appetizer",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "b04eb862-c487-4fbd-6a61-08d75451a565",
+    "title": "Caesar Salad",
+    "subTitle": "Old fashioned with crispy croutons, avocados, and shaved parmesan in a light anchovy dressing.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 1100,
+    "preparation": 5,
+    "image": "https://cdn.opeqe.com/image/menu/s/b04eb862-c487-4fbd-6a61-08d75451a565.jpg",
+    "gallery": "",
+    "price": 11.5,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Salad",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Appetizer",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "f1d00e37-dc3f-4ac5-6a62-08d75451a565",
+    "title": "Chicken Soup",
+    "subTitle": "Chicken soup with carrots, zucchini, potatoes, sweet potatoes, broccolini and collard greens.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 1100,
+    "preparation": 10,
+    "image": "https://cdn.opeqe.com/image/menu/s/f1d00e37-dc3f-4ac5-6a62-08d75451a565.jpg",
+    "gallery": "",
+    "price": 6.99,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Soup",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Appetizer",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "4f07dcd3-8031-4274-6a63-08d75451a565",
+    "title": "Pepperoni Pizza",
+    "subTitle": "Pepperoni, mozzarella, tomato sauce. Naturally fermented dough.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 800,
+    "maximumCalorie": 1400,
+    "preparation": 20,
+    "image": "https://cdn.opeqe.com/image/menu/s/4f07dcd3-8031-4274-6a63-08d75451a565.jpg",
+    "gallery": "",
+    "price": 16,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Italian",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Pizza",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "c337a275-0ecc-40e1-6a64-08d75451a565",
+    "title": "Cheese Pizza",
+    "subTitle": "Mozzarella, tomato sauce. Naturally fermented dough.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 800,
+    "maximumCalorie": 1500,
+    "preparation": 20,
+    "image": "https://cdn.opeqe.com/image/menu/s/c337a275-0ecc-40e1-6a64-08d75451a565.jpg",
+    "gallery": "",
+    "price": 21,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Italian",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Pizza",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "7bd9e7e9-0040-4b38-6a65-08d75451a565",
+    "title": "Boneless BBQ Chicken Pizza",
+    "subTitle": "My lit herb infused dough with BBQ sauce, BBQ chicken, covered with my blend of mozzarella cheeses, red onion and Italian parsley.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 1200,
+    "preparation": 30,
+    "image": "https://cdn.opeqe.com/image/menu/s/7bd9e7e9-0040-4b38-6a65-08d75451a565.jpg",
+    "gallery": "",
+    "price": 14.29,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Italian",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Pizza",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "4f668bf7-92bc-41b4-6a66-08d75451a565",
+    "title": "Veggie Pizza",
+    "subTitle": "Our delicious pizza dough smothered with our fresh pizza sauce covered with our New York cheese blend topped with black olives, mushrooms, mixed peppers, red onions, sliced tomatoes, and fresh chopped garlic.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 1200,
+    "preparation": 30,
+    "image": "https://cdn.opeqe.com/image/menu/s/4f668bf7-92bc-41b4-6a66-08d75451a565.jpg",
+    "gallery": "",
+    "price": 19.7,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Italian",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Pizza",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "f7c97a25-f8ad-4653-6a67-08d75451a565",
+    "title": "Hawaiian Pizza",
+    "subTitle": "Our delicious pizza dough smothered with our amazing fresh pizza sauce covered with our New York cheese blend topped with Canadian bacon, and pineapple.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 1200,
+    "preparation": 30,
+    "image": "https://cdn.opeqe.com/image/menu/s/f7c97a25-f8ad-4653-6a67-08d75451a565.jpg",
+    "gallery": "",
+    "price": 17.7,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Italian",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Pizza",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "dc8afebc-5043-4ee6-6a68-08d75451a565",
+    "title": "Creamy Chicken Soup",
+    "subTitle": "Delicious chicken soup with corn.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 1100,
+    "preparation": 10,
+    "image": "https://cdn.opeqe.com/image/menu/s/dc8afebc-5043-4ee6-6a68-08d75451a565.jpg",
+    "gallery": "",
+    "price": 6.99,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Soup",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Appetizer",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "4f61bad3-0a1a-445d-cf31-08d6872340eb",
+    "title": "Egg Burger with Truffle Mayo",
+    "subTitle": "Burger with half a pound of meat, truffle mayo and agg",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 790,
+    "maximumCalorie": 1350,
+    "preparation": 4,
+    "image": "https://cdn.opeqe.com/image/menu/s/45.jpg",
+    "gallery": "",
+    "price": 10.49,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Sandwich",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "d32e79db-c9a6-41f0-67e5-08d687252175",
+    "title": "Noodle Plate",
+    "subTitle": "Plate of fresh vegetable and chicken or beef",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 0,
+    "maximumCalorie": 0,
+    "preparation": 25,
+    "image": "https://cdn.opeqe.com/image/menu/s/2.jpg",
+    "gallery": "",
+    "price": 9.2,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "chinese",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Fast food",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "a8a3cd65-4887-4788-67e6-08d687252175",
+    "title": "T-Bone Steak & Eggs",
+    "subTitle": "A tender 13 oz. seasoned T-Bone steak served with two eggs, hash browns and bread",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 0,
+    "maximumCalorie": 0,
+    "preparation": 4,
+    "image": "https://cdn.opeqe.com/image/menu/s/3.jpg",
+    "gallery": "",
+    "price": 16.99,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 3
+    },
+    "mealType": {
+      "title": "Breakfast",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "A'la Carte",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "Chief Special",
+      "description": "Get $10 off when you order $20 or more T-Bone Steak & Eggs",
+      "transcript": "GET $10.00 OFF WHEN ORDER $20.00 OR MORE OF THIS ITEM ",
+      "policy": "",
+      "image": "",
+      "color": null,
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 10,
+      "percentage": 0,
+      "limit": 0,
+      "value": 20,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "1fedff8f-36be-4335-67e7-08d687252175",
+    "title": "California Chicken Salad",
+    "subTitle": "White meat chicken full of veggies, and side of choice of dressing",
+    "description": "",
+    "ingredients": "White meat chicken, avocado, feta cheese, carrots, bell peppers, tomatoes, broccoli, lettuce, croutons, pasta",
+    "minimumCalorie": 820,
+    "maximumCalorie": 1740,
+    "preparation": 25,
+    "image": "https://cdn.opeqe.com/image/menu/s/4.jpg",
+    "gallery": "",
+    "price": 13.8,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Salad",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "736c756a-2a0d-471b-67e8-08d687252175",
+    "title": "Salmon Red Caviar Sushi",
+    "subTitle": "A delicious sushi comes with fresh red caviar",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 280,
+    "maximumCalorie": 420,
+    "preparation": 4,
+    "image": "https://cdn.opeqe.com/image/menu/s/46.jpg",
+    "gallery": "",
+    "price": 4.95,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Japanese",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Sushi",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "2c433d2f-5d42-430a-67e9-08d687252175",
+    "title": "Albacore Sashimi",
+    "subTitle": "A sashimi upgraded with organic fresh albacore to show off the difference",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 320,
+    "maximumCalorie": 400,
+    "preparation": 10,
+    "image": "https://cdn.opeqe.com/image/menu/s/2c433d2f-5d42-430a-67e9-08d687252175.jpg",
+    "gallery": "",
+    "price": 12.95,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Japanese",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Sashimi",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "7129c46d-b684-4bd1-67ea-08d687252175",
+    "title": "My Hammy & Cheese Omelette",
+    "subTitle": "Three-egg omelette melted combination of cheeses and choice of bread",
+    "description": "",
+    "ingredients": "egg, ham,Swiss chees, American chees, hash browns",
+    "minimumCalorie": 1300,
+    "maximumCalorie": 2100,
+    "preparation": 15,
+    "image": "https://cdn.opeqe.com/image/menu/s/7.jpg",
+    "gallery": "",
+    "price": 10.99,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Breakfast",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Omelette",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "89196ca8-d70e-4e9b-67eb-08d687252175",
+    "title": "Blueberry Pancake Breakfast",
+    "subTitle": "Served with two eggs and hash browns, plus your choice of two bacon strips or two sausage links",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 0,
+    "maximumCalorie": 0,
+    "preparation": 10,
+    "image": "https://cdn.opeqe.com/image/menu/s/8.jpg",
+    "gallery": "",
+    "price": 8.99,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 3
+    },
+    "mealType": {
+      "title": "Breakfast",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Pancake",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "Use code FREEDINE",
+      "description": "Enjoy $10 Off When you order two or more of Blueberry Pancake Breakfast",
+      "transcript": "USE CODE FREEDINE TO GET $10.00 OFF UP TO $30.00 ",
+      "policy": "The Coupon is only applicable for the specific item and can not be combine with any other order",
+      "image": "",
+      "color": null,
+      "voucher": "FREEDINE",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 10,
+      "percentage": 0,
+      "limit": 30,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "35e2287b-89ec-46c0-67ec-08d687252175",
+    "title": "Gordita Taco Combo",
+    "subTitle": "Served with rice, beans, and chips",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 450,
+    "maximumCalorie": 750,
+    "preparation": 15,
+    "image": "https://cdn.opeqe.com/image/menu/s/9.jpg",
+    "gallery": "",
+    "price": 9.89,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Mexican",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Taco",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "00ee0094-39ce-4d25-67ed-08d687252175",
+    "title": "Pad Thai",
+    "subTitle": "With egg, bean sprouts, peanut, and green onion",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 860,
+    "maximumCalorie": 1200,
+    "preparation": 25,
+    "image": "https://cdn.opeqe.com/image/menu/s/10.jpg",
+    "gallery": "",
+    "price": 9.99,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "Thai",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Seafood",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "8657273f-bb10-453a-67ee-08d687252175",
+    "title": "Quarter Dark and Leg",
+    "subTitle": "This juicy dark meat plate comes with a rotisserie chicken thigh and leg, and our delicious hand sliced tomatoe",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 1800,
+    "maximumCalorie": 2600,
+    "preparation": 40,
+    "image": "https://cdn.opeqe.com/image/menu/s/11.jpg",
+    "gallery": "",
+    "price": 16.67,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Fastfood",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "a1aaa6eb-78c6-4a4d-31b3-08d68730ae0f",
+    "title": "Avocado Bacon Cheeseburger",
+    "subTitle": "1/3 lb. Pure beef patty, topped with hand-smashed avocado, American cheese, thick double-smoked bacon onion",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 1550,
+    "maximumCalorie": 1900,
+    "preparation": 10,
+    "image": "https://cdn.opeqe.com/image/menu/s/12.jpg",
+    "gallery": "",
+    "price": 7.69,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Fastfood",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "0182b004-63b6-4aa3-31b4-08d68730ae0f",
+    "title": "Cinnamon Roll Pancake",
+    "subTitle": "Our cinnamon crumb topping cooked into two buttermilk pancakes and topped with whipped cream",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 620,
+    "maximumCalorie": 0,
+    "preparation": 5,
+    "image": "https://cdn.opeqe.com/image/menu/s/13.jpg",
+    "gallery": "",
+    "price": 11.48,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Breakfast",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Cinnamon roll pancake",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  },
+  {
+    "id": "16c17fc6-1681-4d3f-31b5-08d68730ae0f",
+    "title": "Eggs Benedict",
+    "subTitle": "Smoked ham, poached eggs, hollandaise, fresh chives, and English muffins",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 800,
+    "maximumCalorie": 1200,
+    "preparation": 5,
+    "image": "https://cdn.opeqe.com/image/menu/s/14.jpg",
+    "gallery": "",
+    "price": 13.48,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 1
+    },
+    "mealType": {
+      "title": "Breakfast",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "à la carte",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Main Course",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "Breakfast Special",
+      "description": "Get 15% off when you order 3 or more Blueberry Pancake Breakfast",
+      "transcript": "GET 15.00%UP TO $50.00 WHEN ORDER 3 OR MORE OF THIS ITEM",
+      "policy": "",
+      "image": "",
+      "color": null,
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 15,
+      "limit": 50,
+      "value": 0,
+      "quantity": 3
+    }
+  },
+  {
+    "id": "3b9a57ce-e633-4175-6a5d-08d75451a565",
+    "title": "Chopped Salad",
+    "subTitle": "Grilled chicken, bacon, blue cheese, hard boiled egg, tomato and creamy sherry vinaigrette.",
+    "description": "",
+    "ingredients": "",
+    "minimumCalorie": 600,
+    "maximumCalorie": 900,
+    "preparation": 5,
+    "image": "https://cdn.opeqe.com/image/menu/s/3b9a57ce-e633-4175-6a5d-08d75451a565.jpg",
+    "gallery": "",
+    "price": 14.95,
+    "rate": 0,
+    "isFavorite": false,
+    "isCatering": false,
+    "isAvailable": true,
+    "cuisineType": {
+      "title": "American",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "mealType": {
+      "title": "Lunch & Dinner",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "menuType": {
+      "title": "Salad",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "courseType": {
+      "title": "Appetizer",
+      "description": "",
+      "image": "",
+      "priority": 0
+    },
+    "special": {
+      "title": "",
+      "description": "",
+      "transcript": "",
+      "policy": "",
+      "image": "",
+      "color": "",
+      "voucher": "",
+      "beginTime": "00:00:00",
+      "remainingTime": 0,
+      "amount": 0,
+      "percentage": 0,
+      "limit": 0,
+      "value": 0,
+      "quantity": 0
+    }
+  }
+]

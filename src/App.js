@@ -1,24 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { ThemeProvider, createMuiTheme } from "@material-ui/core/styles";
+import Layout from "./components/Layout";
+import HeadSlider from "./components/common/HeadSlider";
+import FoodCarousels from "./components/common/FoodCarousels";
+
+import "./App.css";
+
+const theme = createMuiTheme({
+  palette: {
+    primary: {
+      main: "#026764"
+    },
+    secondary: {
+      main: "#282828"
+    }
+  }
+});
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ThemeProvider theme={theme}>
+        <Layout>
+          <HeadSlider />
+          <FoodCarousels />
+        </Layout>
+      </ThemeProvider>
     </div>
   );
 }
